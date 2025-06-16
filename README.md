@@ -16,9 +16,9 @@ Link object files and create executable
 
 
 Sources:  
-[YouTube Playlist: x86_64 Linux Assembly](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn)
+[YouTube Playlist: x86_64 Linux Assembly](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn)  
 [Article: Assembly from scratch](https://www.conradk.com/x86-64-assembly-from-scratch/)  
-[Article: ](https://gpfault.net/posts/asm-tut-0.txt.html)  
+[Article: Assembly Tutorial](https://gpfault.net/posts/asm-tut-0.txt.html)  
 [Various Github Notes](https://github.com/0xAX/asm)
 
 
